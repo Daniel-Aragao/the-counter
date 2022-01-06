@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "the-heimdall-counter": {
+      "hosting": {
+        "the-counter": [
+          "the-heimdall-counter"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "the-heimdall-counter"
+  }
+}
